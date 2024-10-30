@@ -1,5 +1,9 @@
 .row {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 16px;
+    margin: 21px 0;
 }
 .row div {
     margin-right: 10px; 
