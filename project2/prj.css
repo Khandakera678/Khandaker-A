@@ -1,0 +1,10 @@
+.flex{
+    float: left;
+    width: 25;
+    padding: 5;
+  }
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
