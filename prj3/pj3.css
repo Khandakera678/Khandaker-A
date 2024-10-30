@@ -4,6 +4,8 @@
     justify-content: center;
     gap: 16px;
     margin: 21px 0;
+    flex-direction: row; 
+    
 }
 .row div {
     margin-right: 10px; 
