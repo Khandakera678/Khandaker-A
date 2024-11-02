@@ -1,18 +1,17 @@
 .container{
-    border: 3 px solid #a7aef1;
+    border: 3px solid #a7aef1;
     background-color: #d9d9ea;
     display: flex;
-    height: 300 px;
+    height: 300px;
     justify-content:space-between;
     flex-direction:row;
   }
+  
   .container > .one:hover{
     background-color: #72a4ee;
-    align-items: flex-end;
-    
   }
   .one{
-    border: 5 px solid #cbbef2;
-    height: 35 px;
-    width: 100 px;
+    border: 5px solid #cbbef2;
+    height: 35px;
+    width: 100px;
   }
