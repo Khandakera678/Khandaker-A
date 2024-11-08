@@ -2,7 +2,8 @@
     border: 3px solid #a7aef1;
     background-color: #d9d9ea;
     display: flex;
-    height: 300px;
+    width: 100px;
+    height: 100px;
     justify-content:space-between;
     flex-direction:row;
   }
