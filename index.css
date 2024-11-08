@@ -9,10 +9,10 @@
   }
   
   .container > .one:hover{
-    background-color: #72a4ee;
+    background-color: #ffdcdc;
   }
   .one{
-    border: 5px solid #cbbef2;
+    border: 5px solid #f0ecc4;
     height: 35px;
     width: 100px;
   }
