@@ -1,29 +1,12 @@
-.lvone img{
-    width: 600px;
-    height: 400px;  
-  }
-  .lvone {
-    position: relative;
-    width: 300px; 
-    height: 200px; 
-    overflow: hidden;
+.level1 img {
+
+    transition: transform 0.3s ease;  /* Smooth zoom effect */
+
 }
 
-.lvone img {
-    position: absolute;
-    width: 100%; 
-    height: 100%; 
-    transition: opacity 0.5s ease; 
-}
 
-.lvone img:first-child {
-    opacity: 1; 
-}
+.level1 img:hover {
 
-.lvone:hover img:first-child {
-    opacity: 0; 
-}
+    transform: scale(1.05);  /* Slightly enlarges image on hover */
 
-.lvone:hover img:last-child {
-    opacity: 1; 
 }
