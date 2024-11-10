@@ -2,8 +2,8 @@
     border: 3px solid #a7aef1;
     background-color: #d9d9ea;
     display: flex;
-    width: 100px;
-    height: 50px;
+    width: 400px;
+    height: 100px;
     justify-content:space-between;
     flex-direction:row;
   }
@@ -13,6 +13,6 @@
   }
   .one{
     border: 5px solid #f0ecc4;
-    height: 50px;
-    width: 200px;
+    height: 100px;
+    width: 400px;
   }
